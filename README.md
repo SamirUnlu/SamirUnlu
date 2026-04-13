@@ -47,7 +47,7 @@ Check out my repositories to see what I'm working on 🚀
 
 ## 📊 GitHub Stats
 
-![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamirUnlu\&show_icons=true\&theme=tokyonight)
+[![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamirUnlu\&show_icons=true\&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=SamirUnlu&show_icons=true&theme=tokyonight)
 
 ---
 
