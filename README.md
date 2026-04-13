@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Samir 👋
 
-<!--
-**SamirUnlu/SamirUnlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an aspiring developer with a strong interest in game development.
+I enjoy building projects, learning new technologies, and improving my coding skills step by step.
+
+## 🎮 Interests
+
+* Game development
+* Creating interactive experiences
+* Learning how games are built from scratch
+
+## 💻 What I'm Working On
+
+* Developing small projects to improve my skills
+* Exploring game development concepts
+* Experimenting with different programming languages
+
+## 🛠️ Skills
+
+* Swift (basic experience)
+* Java (basic experience)
+* Git & GitHub
+* Blender (basic 3D modeling)
+
+## 📂 Projects
+
+Check out my repositories to see what I'm working on!
+
+## 📈 Goals
+
+* Build my own games
+* Improve my programming skills
+* Learn more about game engines and development tools
+
+## 📫 Contact
+
+Feel free to explore my work and connect with me on GitHub!
+
+---
+
+Thanks for visiting my profile 🚀
