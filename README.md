@@ -43,13 +43,6 @@ Check out my repositories to see what I'm working on 🚀
 * 🚀 Improve my coding skills
 * 🧠 Learn game engines like Unity or Unreal
 
----
-
-## 📊 GitHub Stats
-
-[![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamirUnlu\&show_icons=true\&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=SamirUnlu&show_icons=true&theme=tokyonight)
-
----
 
 ## 🔥 Fun Fact
 
