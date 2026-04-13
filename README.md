@@ -1,45 +1,61 @@
-# Hi, I'm Samir 👋
+# 👋 Hi, I'm Samir
 
-Welcome to my GitHub profile!
-
-## 🚀 About Me
-
-I'm an aspiring developer with a strong interest in game development.
-I enjoy building projects, learning new technologies, and improving my coding skills step by step.
-
-## 🎮 Interests
-
-* Game development
-* Creating interactive experiences
-* Learning how games are built from scratch
-
-## 💻 What I'm Working On
-
-* Developing small projects to improve my skills
-* Exploring game development concepts
-* Experimenting with different programming languages
-
-## 🛠️ Skills
-
-* Swift (basic experience)
-* Java (basic experience)
-* Git & GitHub
-* Blender (basic 3D modeling)
-
-## 📂 Projects
-
-Check out my repositories to see what I'm working on!
-
-## 📈 Goals
-
-* Build my own games
-* Improve my programming skills
-* Learn more about game engines and development tools
-
-## 📫 Contact
-
-Feel free to explore my work and connect with me on GitHub!
+🎮 Aspiring Game Developer
+💻 Learning Swift & Java
+🎨 Exploring 3D with Blender
 
 ---
 
-Thanks for visiting my profile 🚀
+## 🚀 About Me
+
+I'm a passionate beginner developer with a strong interest in **game development**.
+I enjoy building projects, learning new technologies, and turning ideas into interactive experiences.
+
+---
+
+## 🎮 Interests
+
+* Game Development
+* 3D Modeling (Blender)
+* Interactive Applications
+
+---
+
+## 🛠️ Skills
+
+![Swift](https://img.shields.io/badge/Swift-orange?style=for-the-badge\&logo=swift\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-orange?style=for-the-badge\&logo=blender\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+
+---
+
+## 📂 Projects
+
+Check out my repositories to see what I'm working on 🚀
+
+---
+
+## 📈 Goals
+
+* 🎮 Create my own games
+* 🚀 Improve my coding skills
+* 🧠 Learn game engines like Unity or Unreal
+
+---
+
+## 📊 GitHub Stats
+
+![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamirUnlu\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 Fun Fact
+
+I love combining **code + creativity** to build games and interactive worlds.
+
+---
+
+⭐ Thanks for visiting my profile!
+
